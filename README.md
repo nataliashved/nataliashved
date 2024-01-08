@@ -7,7 +7,7 @@ About me:
 - 📫 How to reach me: lianess@yandex.ru
 - 📃 My resume:
 
-Here is my 📒 [Portfolio](https://github.com/nataliashved)
+Here is my 📒 [Portfolio](https://github.com/nataliashved/portfolio)
 
 
 
