@@ -15,7 +15,8 @@
 - PostgreSQL 🟢🟢🟢⚫⚫
 - Проектирование БД 🟢🟢⚫⚫⚫
 - Pyton 🟢⚫⚫⚫⚫
-- Miro, Photoshop, Figma 🟢🟢🟢⚫⚫ 
+- Miro, Photoshop, Figma 🟢🟢🟢⚫⚫
+- Data Warehouse 🟢🟢⚫⚫⚫
 
 ## 🛠️ Мои инструменты:
 - Diagrams: draw.io
