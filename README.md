@@ -37,7 +37,7 @@ middle (Нетология, 2023)
 ## 📝 Резюме и контакты:
 - Мое 📒 [портфолио на github](https://github.com/nataliashved/portfolio)
 - Мое 📄 [резюме на hh](https://hh.ru/applicant/resumes/view?resume=cf08af13ff0afa19d60039ed1f533350357970)
-- Связаться 📱 Telegram, WhatsApp (8-916-685-5043)
+- Связаться 📱 [Telegram](https://t.me/natalia_svd), WhatsApp (8-916-685-5043)
 - E-mail 📫 lianess@yandex.ru
 
 ## Сертификаты Нетологии:
