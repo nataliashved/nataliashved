@@ -31,7 +31,7 @@ middle (Нетология, 2023)
 - API: Swagger
 - Visualization: Tableau 
 - Prototype: Figma, Miro, Photoshop
-- DWH: в данный момент изучаю: Clickhouse, Airflow
+
 
 ## 📝 Резюме и контакты:
 - Мое 📒 [портфолио на github](https://github.com/nataliashved/portfolio)
