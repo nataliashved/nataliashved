@@ -39,5 +39,4 @@ middle (Нетология, 2023)
 - Связаться 📱 [Telegram](https://t.me/natalia_svd), [WhatsApp](https://wa.clck.bar/79166855043) (8-916-685-5043)
 - E-mail 📫 lianess@yandex.ru
 
-## Сертификаты Нетологии:
 
