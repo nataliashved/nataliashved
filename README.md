@@ -29,7 +29,7 @@ middle (Нетология, 2023)
 - Language: SQL, Python
 - Database: PostgreSQL
 - API: Swagger
-- Project management: Jira
+- Project management: Jira + Confluence
 - Visualization: Tableau 
 - Prototype: Figma, Miro, Photoshop
 
