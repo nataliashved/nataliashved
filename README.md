@@ -13,13 +13,13 @@ middle (Нетология, 2023)
 - ☕ Coffee makes me do it 😄
 
 ## 📈 Мои навыки:
-- Сбор и анализ требований 🟢🟢⚫⚫⚫
+- Сбор и анализ требований 🟢🟢🟢🟢⚫
 - UML и BPMN 🟢🟢🟢⚫⚫
 - ER, sequence-диаграммы 🟢🟢⚫⚫⚫
-- OpenAPI 🟢🟢⚫⚫⚫
+- OpenAPI 🟢🟢🟢⚫⚫
 - SOAP, REST, gRPC и брокеры сообщений 🟢🟢⚫⚫⚫
 - PostgreSQL 🟢🟢🟢⚫⚫
-- Проектирование БД 🟢🟢⚫⚫⚫
+- Проектирование БД 🟢🟢🟢⚫⚫
 - Pyton 🟢⚫⚫⚫⚫
 - Miro, Photoshop, Figma 🟢🟢🟢🟢⚫
 - Data Warehouse 🟢🟢⚫⚫⚫
